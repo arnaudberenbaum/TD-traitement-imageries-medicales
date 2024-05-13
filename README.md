@@ -4,8 +4,8 @@
 - Rendez vous sur https://jupyterhub.ijclab.in2p3.fr/
 - Connectez vous avec votre compte universite-paris-saclay
 - Cliquez sur "Start JupyterLab"
- <img width="600" alt="Ouverture JupyterLab" src="https://github.com/arnaudberenbaum/TD-traitement-imageries-medicales/assets/62303243/129ac322-2c0b-4b8b-b64b-4dcc3dbce566">
-- 
+<img width="600" alt="Ouverture JupyterLab" src="https://github.com/arnaudberenbaum/TD-traitement-imageries-medicales/assets/62303243/129ac322-2c0b-4b8b-b64b-4dcc3dbce566">
+
   
 
 ## Ajout des Notebooks depuis ce Repo :
@@ -19,4 +19,4 @@
 ## Téléchargement du Dataset :
 - Rendez vous sur la page d'accueil du [Medical Segmentation Decathlon](https://decathlon-10.grand-challenge.org/) et cliquez sur le lien Google Drive
   <img width="600" alt="Screenshot 2024-05-13 at 15 22 45" src="https://github.com/arnaudberenbaum/TD-traitement-imageries-medicales/assets/62303243/945eeb3c-c29e-4737-91f8-158f1bba32d4">
-- 
+- Téléchargez le fichier Task01_BrainTumour.tar (7.07 Go)
