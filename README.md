@@ -13,3 +13,8 @@
 - Dans le champs "Entrez l'URI du dépôt Git distant" entrez "https://github.com/arnaudberenbaum/TD-traitement-imageries-medicales/"
 - Cochez les cases "Inclure les sous-modules" et "Télécharger le dépôt"
 - Et voilà ! En se rendant dans l'explorateur de fichiers, vous devriez avoir l'ensemble des Notebooks pour le TD
+
+## Téléchargement du Dataset :
+- Rendez vous sur la page d'accueil du [Medical Segmentation Decathlon](https://decathlon-10.grand-challenge.org/) et cliquez sur le lien Google Drive
+<img width="600" alt="Screenshot 2024-05-13 at 15 22 45" src="https://github.com/arnaudberenbaum/TD-traitement-imageries-medicales/assets/62303243/945eeb3c-c29e-4737-91f8-158f1bba32d4">
+- 
