@@ -17,6 +17,5 @@
 - Et voilà ! En se rendant dans l'explorateur de fichiers, vous devriez avoir l'ensemble des Notebooks pour le TD
 
 ## Téléchargement du Dataset :
-- Rendez vous sur la page d'accueil du [Medical Segmentation Decathlon](https://decathlon-10.grand-challenge.org/) et cliquez sur le lien Google Drive
-  <img width="600" alt="Screenshot 2024-05-13 at 15 22 45" src="https://github.com/arnaudberenbaum/TD-traitement-imageries-medicales/assets/62303243/945eeb3c-c29e-4737-91f8-158f1bba32d4">
-- Téléchargez le fichier Task01_BrainTumour.tar (7.07 Go)
+- Téléchargez le fichier [Brats2020_sample.zip](https://drive.google.com/file/d/1nF2cPoaRl9sEPNN1BcmGdwDoCXmuzmT8/view?usp=drive_link) et transférez le à la racine de votre environnement.
+- Téléchargez les [poids entrainés du réseau](https://drive.google.com/file/d/1qoQFwnc5Ex3rWzAw2GBoYwPvqr8Ozebs/view?usp=drive_link) et exportez les dans le dossier "weights/"
